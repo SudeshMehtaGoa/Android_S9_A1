@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mehta.android.ands9a1.MenuActivity">
+
+    <item
+        android:id="@+id/stringRedColor"
+        android:orderInCategory="100"
+        android:title="@string/action_stringRedColor"/>
+
+    <item
+        android:id="@+id/stringGreenColor"
+        android:orderInCategory="101"
+        android:title="@string/action_stringGreenColor"/>
+
+
+    <item
+        android:id="@+id/stringBlueColor"
+        android:orderInCategory="102"
+        android:title="@string/action_stringBlueColor"/>
+
+
+</menu>

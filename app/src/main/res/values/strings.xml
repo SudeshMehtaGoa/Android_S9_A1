@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndS9A1</string>
+    <string name="action_stringColor">String Color</string>
+    <string name="action_stringRedColor">Red</string>
+    <string name="action_stringGreenColor">Green</string>
+    <string name="action_stringBlueColor">Blue</string>
+</resources>
